@@ -93,6 +93,11 @@ ul {
   background: rgb(5, 35, 117);
 }
 
+.active {
+  color: #fff;
+  font-weight: bold;
+}
+
 /* MEDIA QUERIES */
 
 @media (max-width: 650px) {
